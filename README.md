@@ -4,7 +4,7 @@
 ```
 +src 测试源代码
 +server 服务器相关代码
-+delete 输出文件或文件夹代码
++delete 删除文件或文件夹代码
 ```
 
 cd path/to/project
